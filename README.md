@@ -40,49 +40,9 @@
 
 ---
 
-💡 How To Use
-✏️ Type your task into the input bar
-➕ Click “Add” to add it to the list
-✅ Click on a task to mark it complete
-❌ Click the × to delete the task
-
-🎨 UI Highlights
-✨ Animated checkmarks and hover effects
-💅 Elegant button styles
-🔘 Circle radio icons for task completion
-🌈 Gradient background layout
-📱 Mobile-first and fully responsive
-
-🧠 Ideas for Expansion
-🧠 Save tasks to Local Storage
-🌙 Add a Dark Mode toggle
-🗂 Task categories and filtering
-📝 Make tasks editable in-place
-
-🛠️ Getting Started
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/hussincode/To-Do-list.git
-
-# Navigate into the directory
-cd To-Do-list
-
-# Open index.html in your browser
-🤝 Contribute
-If you'd like to improve the UI/UX, add new features, or simply practice open source — feel free to fork and contribute!
-
-bash
-Copy
-Edit
-# Fork the repo
-# Make your changes
-# Submit a Pull Request
 👤 About the Author
 Hussin Hesham
 🎓 Front-End Developer & Tech Enthusiast
-🔗 LinkedIn | 🌐 Portfolio
 
 ⭐ Support
 If you found this useful or cool:
